@@ -1,0 +1,1 @@
+print("Zmeul Bohdan, 2025")
