@@ -1,1 +1,2 @@
-Repository for learning Python
+## Repository for learning Python
+**Author: Zmeul Bohdan**
